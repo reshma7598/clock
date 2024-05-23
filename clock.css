@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: hsl(250, 95%, 84%);
+}
+
+.clock {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 108px;
+}
